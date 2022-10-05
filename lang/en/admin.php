@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+ 'admin_panel' => 'Admin Panel',
+ 'users' => 'Users',
+ 'products' => 'Products',
+ 'orders' => 'Orders',
+ 'name' => 'Name',
+ 'email' => 'Email',
+ 'actions' => 'Actions',
+ 'action' => 'Action',
+ 'show' => 'Show',
+ 'edit' => 'Edit',
+ 'edit_user' => 'Edit User',
+ 'rights' => 'Rights',
+ 'back' => 'Back',
+ 'admin' => 'Admin',
+ 'user' => 'User',
+ 'role' => 'Role',
+ 'delete' => 'Delete',
+ 'delete_sure' => 'Are you sure you want to delete',
+ 'delete_user' => 'Delete user',
+ 'delete_product' => 'Delete product',
+ 'delete_order' => 'Delete order',
+ 'cancel' => 'Cancel',
+ 'seed_users' => 'Seed 5 users',
+ 'seed_products' => 'Seed 5 products',
+ 'seed_orders' => 'Seed 5 orders',
+ 'description' => 'Description',
+ 'price' => 'Price',
+ 'product' => 'Product',
+ 'edit_product' => 'Product',
+ 'created_at' => 'Created at',
+ 'users_has_password' => 'User has password',
+
+];
