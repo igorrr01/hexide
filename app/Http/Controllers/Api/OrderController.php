@@ -41,7 +41,7 @@ class OrderController extends Controller
             return response()->json([
                 "status code" => 404,
                 "message" => "Order not found!"
-            ])->setStatusCode(404);;
+            ])->setStatusCode(404);
         }
 
         return response()->json([

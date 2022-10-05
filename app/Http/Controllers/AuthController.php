@@ -42,8 +42,6 @@ class AuthController extends Controller
                 'type' => 'bearer',
             ]
         ]);
-        // ->header('Authorization', 'Bearer '.$token)
-
 
     }
 

@@ -42,7 +42,7 @@ class ProductController extends Controller
             return response()->json([
                 "status code" => 404,
                 "message" => "Product not found!"
-            ])->setStatusCode(404);;
+            ])->setStatusCode(404);
         }
 
         return response()->json([

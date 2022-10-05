@@ -33,5 +33,6 @@ return [
  'edit_product' => 'Редагувати товар',
  'created_at' => 'Створений',
  'users_has_password' => 'Пароль користувачів',
+ 'logout' => 'Вихід',
 
 ];

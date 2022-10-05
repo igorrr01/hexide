@@ -33,5 +33,6 @@ return [
  'edit_product' => 'Product',
  'created_at' => 'Created at',
  'users_has_password' => 'User has password',
+ 'logout' => 'Log out',
 
 ];
